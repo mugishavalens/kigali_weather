@@ -4,10 +4,19 @@ A Flutter app that shows the current weather for four cities in Rwanda: Kigali, 
 
 ## Screenshots
 
-| Weather card | Loading | Offline, saved weather | Offline, never loaded |
-|:---:|:---:|:---:|:---:|
-| <img src="screenshots/weather_card.png" width="200"> | <img src="screenshots/loading.png" width="200"> | <img src="screenshots/offline_saved.png" width="200"> | <img src="screenshots/offline_error.png" width="200"> |
-| Live weather for Rubavu | The spinner while Huye loads | Musanze's last saved weather, with the yellow banner | Musanze has no saved weather, so the app shows an error and Retry |
+<p align="center">
+  <img src="screenshots/weather_card.png" width="200" alt="Weather card">
+  <img src="screenshots/loading.png" width="200" alt="Loading">
+  <img src="screenshots/offline_saved.png" width="200" alt="Offline, saved weather">
+  <img src="screenshots/offline_error.png" width="200" alt="Offline, never loaded">
+</p>
+
+From left to right:
+
+1. **Weather card:** live weather for Rubavu.
+2. **Loading:** the spinner while Huye loads.
+3. **Offline, saved weather:** Musanze's last saved weather, with the yellow banner.
+4. **Offline, never loaded:** Musanze has no saved weather, so the app shows an error and Retry.
 
 ## Features
 
